@@ -1,5 +1,6 @@
 {
   "ARES_EXPEDITION": {
+    "id": "ares-expedition",
     "name": "Ares Expedition",
     "expansionName": "",
     "features": [
@@ -36,6 +37,7 @@
     ]
   },
   "TERRAFORMING_MARS": {
+    "id": "terraforming-mars",
     "name": "Terraforming Mars",
     "expansionName": "",
     "features": [
