@@ -1,41 +1,40 @@
 {
   "ARES_EXPEDITION": {
+    "id": "ares-expedition",
     "name": "Ares Expedition",
     "expansionName": "",
     "features": [
       {
-        "id": "tm-complete-player-assistant",
-        "name": "Complete player assistant",
+        "id": "ae-player-board",
+        "name": "Player board",
+        "category": "player",
         "enabled": false
       },
       {
-        "id": "tm-resource-counter",
-        "name": "Resources counter",
-        "enabled": false
-      },
-      { "id": "phases-selector", "name": "Phases selector", "enabled": false },
-      { "id": "oxygen-counter", "name": "Oxygen counter", "enabled": false },
-      { "id": "temp-counter", "name": "Temp counter", "enabled": false },
-      { "id": "oceans-counter", "name": "Oceans counter", "enabled": false }
+        "id": "ae-game-trackers",
+        "name": "Game trackers",
+        "enabled": false,
+        "category": "game"
+      }
     ]
   },
   "TERRAFORMING_MARS": {
+    "id": "terraforming-mars",
     "name": "Terraforming Mars",
     "expansionName": "",
     "features": [
       {
-        "id": "complete-player-assistant",
-        "name": "Complete player assistant",
+        "id": "tm-player-board",
+        "name": "Player board",
+        "category": "player",
         "enabled": false
       },
       {
-        "id": "resource-counter",
-        "name": "Resources counter",
-        "enabled": false
-      },
-      { "id": "oxygen-counter", "name": "Oxygen counter", "enabled": false },
-      { "id": "temp-counter", "name": "Temp counter", "enabled": false },
-      { "id": "oceans-counter", "name": "Oceans counter", "enabled": false }
+        "id": "tm-game-trackers",
+        "name": "Game trackers",
+        "enabled": false,
+        "category": "game"
+      }
     ]
   }
 }
