@@ -5,32 +5,14 @@
     "expansionName": "",
     "features": [
       {
-        "id": "tm-resource-counter",
-        "name": "Resources counter",
+        "id": "ae-player-board",
+        "name": "Player board",
         "category": "player",
         "enabled": false
       },
       {
-        "id": "phases-selector",
-        "name": "Phases selector",
-        "enabled": false,
-        "category": "game"
-      },
-      {
-        "id": "oxygen-counter",
-        "name": "Oxygen counter",
-        "enabled": true,
-        "category": "game"
-      },
-      {
-        "id": "temp-counter",
-        "name": "Temp counter",
-        "enabled": false,
-        "category": "game"
-      },
-      {
-        "id": "oceans-counter",
-        "name": "Oceans counter",
+        "id": "ae-game-trackers",
+        "name": "Game trackers",
         "enabled": false,
         "category": "game"
       }
@@ -42,26 +24,14 @@
     "expansionName": "",
     "features": [
       {
-        "id": "resource-counter",
-        "name": "Resources counter",
-        "enabled": false,
-        "category": "player"
+        "id": "tm-player-board",
+        "name": "Player board",
+        "category": "player",
+        "enabled": false
       },
       {
-        "id": "oxygen-counter",
-        "name": "Oxygen counter",
-        "enabled": false,
-        "category": "game"
-      },
-      {
-        "id": "temp-counter",
-        "name": "Temp counter",
-        "enabled": false,
-        "category": "game"
-      },
-      {
-        "id": "oceans-counter",
-        "name": "Oceans counter",
+        "id": "tm-game-trackers",
+        "name": "Game trackers",
         "enabled": false,
         "category": "game"
       }
